@@ -1,5 +1,5 @@
 
-%run LOLAPI/lol.ipynb
+import lol as l
 import streamlit as st
 st.write("test")
-st.write(Eclesya)
+st.write(l.Eclésya)
